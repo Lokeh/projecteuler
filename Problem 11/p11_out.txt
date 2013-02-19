@@ -1,0 +1,2 @@
+Highest adjacent product: 70600674
+Executed in 0.01783 seconds.
